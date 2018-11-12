@@ -699,3 +699,98 @@ LogInit: Object subsystem initialized
 [2018.11.11-20.42.17:205][418]LogShaderCompilers: Display: Shaders left to compile 28
 [2018.11.11-20.42.19:674][543]LogShaderCompilers: Display: Shaders left to compile 18
 [2018.11.11-20.42.20:630][546]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.11.11-20.51.18:919][890]LogSlate: Took 0.000243 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.11.11-20.51.28:174][917]LogSavePackage: Save=177.82ms
+[2018.11.11-20.51.28:174][917]LogSavePackage: Moving '../../../../../../Users/Ben/Documents/GitHub/Unreal/BuildingEscape/BuildingEscapeProj/Saved/Minimal_Default_Auto1AAA3458E4C725ED48E32B093FAB9D908.tmp' to '../../../../../../Users/Ben/Documents/GitHub/Unreal/BuildingEscape/BuildingEscapeProj/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.umap'
+[2018.11.11-20.51.28:176][917]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ben/Documents/GitHub/Unreal/BuildingEscape/BuildingEscapeProj/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.umap
+[2018.11.11-20.51.28:209][917]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.256
+[2018.11.11-20.51.28:209][917]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.256
+[2018.11.12-03.28.22:324][657]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-03.28.22:418][661]MapCheck: New page: Map Check
+[2018.11.12-03.28.22:534][661]Cmd: MAP REBUILD ALLVISIBLE
+[2018.11.12-03.28.22:534][661]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.11.12-03.28.22:623][661]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2018.11.12-03.28.22:648][661]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.12-03.28.22:648][661]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Metal_Brushed_Nickel, compiling. 
+[2018.11.12-03.28.22:654][661]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_TableRound, compiling. 
+[2018.11.12-03.28.22:660][661]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.12-03.28.22:660][661]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.12-03.28.22:660][661]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Chair, compiling. 
+[2018.11.12-03.28.22:666][661]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Metal_Copper, compiling. 
+[2018.11.12-03.28.22:673][661]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_StatueGlass, compiling. 
+[2018.11.12-03.28.22:679][661]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Metal_Burnished_Steel, compiling. 
+[2018.11.12-03.28.22:686][661]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.11.12-03.28.22:686][661]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_1, compiling. 
+[2018.11.12-03.28.24:162][661]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.11.12-03.28.24:162][661]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.11.12-03.28.24:162][661]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.12-03.28.24:162][661]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.12-03.28.24:162][661]TextureStreamingBuild: Display: Compiling optional shaders took 1.545 seconds.
+[2018.11.12-03.28.24:219][661]LogLevel: Display: Export Material TexCoord Scales took 0.056 seconds.
+[2018.11.12-03.28.24:224][661]TextureStreamingBuild: Display: Build Texture Streaming took 0.005 seconds.
+[2018.11.12-03.28.24:284][661]LightingResults: New page: Lighting Build - Nov 11, 2018, 11:28:24 AM
+[2018.11.12-03.28.24:417][661]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.11.12-03.28.24:698][661]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.11.12-03.28.24:838][661]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.11.12-03.28.25:867][661]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.11.12-03.28.25:867][661]LogSwarmInterface: [TryOpenConnection] Local Process ID is 17348
+[2018.11.12-03.28.29:521][661]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2018.11.12-03.28.29:521][661]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.11.12-03.28.29:521][661]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.11.12-03.28.29:521][661]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.11.12-03.28.29:521][661]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.11.12-03.28.29:521][661]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.11.12-03.28.29:868][661]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.11.12-03.28.29:868][661]MapCheck: New page: Minimal_Default - Nov 11, 2018, 11:28:29 AM
+[2018.11.12-03.28.34:581][661]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 4,713.684ms to complete.
+[2018.11.12-03.28.34:605][661]LogEditorBuildUtils: Build time 0:12
+[2018.11.12-03.28.34:621][661]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Metal_Brushed_Nickel, compiling. 
+[2018.11.12-03.28.34:640][661]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Metal_Brushed_Nickel, compiling. 
+[2018.11.12-03.28.34:656][661]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.11.12-03.28.34:688][662]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_TableRound, compiling. 
+[2018.11.12-03.28.34:694][662]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.12-03.28.34:694][662]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_TableRound, compiling. 
+[2018.11.12-03.28.34:705][663]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.12-03.28.34:718][663]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Chair, compiling. 
+[2018.11.12-03.28.34:725][663]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.12-03.28.34:726][663]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Chair, compiling. 
+[2018.11.12-03.28.34:778][664]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Metal_Copper, compiling. 
+[2018.11.12-03.28.34:785][664]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Metal_Copper, compiling. 
+[2018.11.12-03.28.34:842][665]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_StatueGlass, compiling. 
+[2018.11.12-03.28.34:849][665]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_StatueGlass, compiling. 
+[2018.11.12-03.28.34:870][666]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Metal_Burnished_Steel, compiling. 
+[2018.11.12-03.28.34:875][666]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Metal_Burnished_Steel, compiling. 
+[2018.11.12-03.28.37:076][669]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.11.12-03.28.37:076][669]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.11.12-03.28.37:925][681]LogSavePackage: Save=107.73ms
+[2018.11.12-03.28.37:925][681]LogSavePackage: Moving '../../../../../../Users/Ben/Documents/GitHub/Unreal/BuildingEscape/BuildingEscapeProj/Saved/Minimal_Default_Auto25EE519FD46818C9D30581E82102CC837.tmp' to '../../../../../../Users/Ben/Documents/GitHub/Unreal/BuildingEscape/BuildingEscapeProj/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto2.umap'
+[2018.11.12-03.28.37:927][681]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ben/Documents/GitHub/Unreal/BuildingEscape/BuildingEscapeProj/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto2.umap
+[2018.11.12-03.28.37:934][681]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.149
+[2018.11.12-03.28.37:935][681]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.149
+[2018.11.12-03.28.41:825][689]Job is a success!
+[2018.11.12-03.28.42:259][690]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.019s
+[2018.11.12-03.28.42:259][690]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.11.12-03.28.42:259][690]LogVolumetricLightmapImport:      BrickData 30x5x5 = 0.0Mb
+[2018.11.12-03.28.42:259][690]LogVolumetricLightmapImport:      Bricks at Level
+[2018.11.12-03.28.42:259][690]LogVolumetricLightmapImport:          0: 16.7% covering 100.0% of volume
+[2018.11.12-03.28.42:259][690]LogVolumetricLightmapImport:          1: 16.7% covering 1.6% of volume
+[2018.11.12-03.28.42:259][690]LogVolumetricLightmapImport:          2: 66.7% covering 0.1% of volume
+[2018.11.12-03.28.42:477][690]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 512X256)
+[2018.11.12-03.28.42:477][690]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 512X512)
+[2018.11.12-03.28.42:477][690]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 512X512)
+[2018.11.12-03.28.42:477][690]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 64X32)
+[2018.11.12-03.28.42:477][690]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 64X64)
+[2018.11.12-03.28.42:477][690]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 64X64)
+[2018.11.12-03.28.42:477][690]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 32X32)
+[2018.11.12-03.28.42:477][690]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 1024X128)
+[2018.11.12-03.28.42:544][690]Lightmass on BENROG: 2.37 sec total, 470 ms importing, 47 ms setup, 417 ms photons, 1.41 sec processing, 0 ms extra exporting [7/7 mappings]. Threads: 9.75 sec total, 1.39 sec processing.
+[2018.11.12-03.28.42:567][690]LogStaticLightingSystem: Illumination: 17.9 sec (132 ms encoding lightmaps, 37 ms encoding shadowmaps)
+[2018.11.12-03.28.42:568][690]LogStaticLightingSystem: Lightmap texture memory:  0.7 MB (0.7 MB streaming, 0.0 MB non-streaming), 4 textures
+[2018.11.12-03.28.42:568][690]LogStaticLightingSystem: Shadowmap texture memory: 0.2 MB (0.2 MB streaming, 0.0 MB non-streaming), 2 textures
+[2018.11.12-03.28.43:515][690]DumpUnbuiltLightIteractions
+[2018.11.12-03.28.43:515][690]Lights with unbuilt interactions: 0
+[2018.11.12-03.28.43:515][690]
+[2018.11.12-03.28.43:515][690]Primitives with unbuilt interactions: 0
+[2018.11.12-03.28.43:817][691]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.11.12-03.28.43:817][691]MapCheck: New page: Minimal_Default - Nov 11, 2018, 11:28:43 AM
+[2018.11.12-03.28.43:883][691]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 66.432ms to complete.
